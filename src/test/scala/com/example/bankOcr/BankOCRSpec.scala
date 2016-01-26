@@ -1,5 +1,6 @@
-import com.example.BankOCR
-import org.scalatest.{Matchers, FlatSpec}
+package com.example.bankOcr
+
+import org.scalatest.{FlatSpec, Matchers}
 
 /**
  * Created by Martynas on 28/10/2015.

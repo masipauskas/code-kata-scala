@@ -1,9 +1,8 @@
-package com.example
-
-import com.example.Parsers._
+package com.example.args
 
 import scala.reflect.ClassTag
 import scala.util.Try
+import Parsers._
 
 class Args {
   def parse(schema: Set[Argument[_]])(args: Seq[String]): Try[Map[String, Option[_]]] = {

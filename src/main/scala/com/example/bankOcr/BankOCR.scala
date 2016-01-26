@@ -1,4 +1,4 @@
-package com.example
+package com.example.bankOcr
 
 import scala.collection.{mutable, _}
 /**

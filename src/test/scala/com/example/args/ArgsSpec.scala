@@ -1,4 +1,5 @@
-import com.example._
+package com.example.args
+
 import org.scalatest.{FlatSpec, Matchers}
 
 import scala.util.Success
